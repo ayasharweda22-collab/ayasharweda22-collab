@@ -41,5 +41,5 @@ I am a **Data Analyst** passionate about analyzing complex datasets, identifying
 ---
 
 ### 🌐 Connect with Me
-[![LinkedIn](https://www.linkedin.com/in/aya-sharweda-0862b7336/)
-[![Gmail](aya.sharweda22@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aya-sharweda-0862b7336/)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aya.sharweda22@gmail.com)
